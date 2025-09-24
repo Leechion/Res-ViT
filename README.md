@@ -59,12 +59,6 @@ You need to store your data set like this:
     └── tulips
 ```
 
-## Reference
-
-Appreciate the work from the following repositories:
-
-- [microsoft](https://github.com/microsoft)/[Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
-- [WZMIAOMIAO](https://github.com/WZMIAOMIAO)/[swin-transformer](https://github.com/microsoft/Swin-Transformer)
 
 ## License
 
