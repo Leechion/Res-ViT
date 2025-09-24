@@ -3,7 +3,7 @@
 ![img.png](img.png)
 
 
-Network for Swin-Transformer. The pytorch version.
+Network for Res-Vision Transformer. The pytorch version.
 
 If this works for you, please give me a star, this is very important to me.😊
 
