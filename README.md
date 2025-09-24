@@ -1,6 +1,7 @@
-# Swin-Transformer
+# Res-ViT网络架构
 
-![sw.png](https://s2.loli.net/2024/08/19/8kViRG6uxM4yFmP.png)
+![img.png](img.png)
+
 
 Network for Swin-Transformer. The pytorch version.
 
@@ -9,13 +10,13 @@ If this works for you, please give me a star, this is very important to me.😊
 1. Clone this repository.
 
 ```shell
-git clone https://github.com/Runist/Swin-Transformer
+git clone https://github.com/Leechion/Res-ViT
 ```
 
 2. Install code from source.
 
 ```shell
-cd Swin-Transformer
+cd Res-ViT
 pip install -r requirements.txt
 ```
 
@@ -36,7 +37,7 @@ python predict.py
 7. Evaluate model.
 
 ```shell
-python create_confusion_matrix.py --weights './weights/model-9.pth' --d_val-data-dir "val-data-path --device cuda:0
+python create_confusion_matrix.py --weights './weights/your own model.pth' --d_val-data-dir "val-data-path --device cuda:0
 ```
 
 ## Train your dataset
