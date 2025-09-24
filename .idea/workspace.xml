@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c01f0f-a320-404b-a90a-b5ab0275de3c" name="默认变更列表" comment="Res-ViT更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
       <workItem from="1735779942057" duration="110000" />
       <workItem from="1758635366825" duration="222000" />
       <workItem from="1758679215667" duration="8000" />
+      <workItem from="1758679448205" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="Res-ViT更新">
       <created>1758635546456</created>
@@ -44,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1758635546456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Res-ViT更新">
+      <created>1758679732586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758679732586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

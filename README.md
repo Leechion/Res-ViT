@@ -1,4 +1,4 @@
-# Res-ViT网络架构
+# Res-ViT 网络架构
 
 ![img.png](img.png)
 
